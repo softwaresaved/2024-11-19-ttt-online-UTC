@@ -267,7 +267,7 @@ scheduled end time.</em></p>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1, Tuesday 15 June 2021, 09:15-12:30</h3>
+    <h3>Day 1, Tuesday 9 July 2024, 09:00-13:00</h3>
     <table class="table table-striped">
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
@@ -279,7 +279,7 @@ scheduled end time.</em></p>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2, Wednesday 16 June 2021, 09:15-12:30</h3>
+    <h3>Day 2, Wednesday 10 July 2024, 09:00-13:00</h3>
     <table class="table table-striped">
       <tr><td>Recap of Day 1</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
@@ -293,7 +293,7 @@ scheduled end time.</em></p>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 3, Thursday 17 June 2021, 09:15-12:30</h3>
+    <h3>Day 3, Thursday 11 July 2024, 09:00-13:00</h3>
         <table class="table table-striped">
           <tr><td>Recap of Day 2</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
@@ -304,7 +304,7 @@ scheduled end time.</em></p>
         </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 4, Friday 18 June 2021, 09:15-12:30</h3>
+    <h3>Day 4, Friday 12 July 2024, 09:00-13:00</h3>
     <table class="table table-striped">
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate</a></td> </tr>
           <tr><td>Break</td> </tr>
