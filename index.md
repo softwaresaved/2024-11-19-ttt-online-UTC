@@ -209,9 +209,9 @@ More information on our <a href="https://docs.carpentries.org/topic_folders/inst
 <h3 id="contact">Contact</h3>
 <p>
 Please email
-{% if page.contact %}
-  {% for contact in page.contact %}
-    {% if forloop.last and page.contact.size > 1 %}
+{% if page.email %}
+  {% for contact in page.email %}
+    {% if forloop.last and page.email.size > 1 %}
       or
     {% else %}
       {% unless forloop.first %}
