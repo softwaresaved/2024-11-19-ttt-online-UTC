@@ -255,16 +255,15 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}/instructor/index.html#schedule">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
+  Please see <a href="{{ site.training_site }}/instructor/index.html#schedule">the Instructor Training Curriculum</a> for course material.
 </p>
 
 
 <hr/>
 
-<!--
-NOTE: This space can be customized to reflect the unique schedule of your training. If you would like it to display,
-adjust the times and titles, then delete the characters above and below that serve to comment it out.
--->
+<p><em>Schedule below is tentative - we will try to keep to it as much as possible but we may not be able to stick to it 
+100%. There will, however, be regular breaks - approximately after each hour of teaching, and we won't go over the 
+scheduled end time.</em></p>
 
 <div class="row">
   <div class="col-md-6">
