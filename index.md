@@ -258,7 +258,7 @@ for more information.
   Please see <a href="{{ site.training_site }}/instructor/index.html#schedule">the Instructor Training Curriculum</a> for course material.
 </p>
 
-
+{% comment %}
 <hr/>
 
 <p><em>Schedule below is tentative - we will try to keep to it as much as possible but we may not be able to stick to it 
@@ -316,6 +316,7 @@ scheduled end time.</em></p>
   </div>
 </div>
 
+{% endcomment %}
 <!--
   ETHERPAD
 
