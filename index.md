@@ -345,10 +345,9 @@ scheduled end time.</em></p>
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
-  Before attending the training, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+  Before attending the training, please fill out <a href="https://carpentries.typeform.com/to/QVOarK#slug={{ site.github.project_title }}">our pre-training survey</a>.
 </p>
 
-
 <p>
-  After the training, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">our post-training survey</a>.
+  After the training, please fill out <a href="https://carpentries.typeform.com/to/cjJ9UP#slug={{ site.github.project_title }}">our post-training survey</a>.
 </p>
